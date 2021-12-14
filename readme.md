@@ -1,5 +1,11 @@
 ## Multi-Lingual Sexist Hate Speech Detection and Classification
 
+##### sEXism Identification in Social neTworks (EXIST) dataset
+Dataset has been developed to address this critical social problem.
+The problem can be divided into two tasks:
+- The first task, Sexism Identification, is a binary classification problem to classify the text as sexist or non-sexist.
+- The second task, Sexism Categorization, is a multi-class classification problem where texts labelled as sexist are classified into one of five labels: ideological-inequality, stereotypingdominance, objectification, sexual-violence and misogyny-non-sexual-violence
+
 ##### Our Project is divided into 8 files. Following are the files with the description of what it contains:
 - **XLM_R.ipynb:** Contains XLM-R model code and results
 - **ROBERTA.ipynb:** Contains Roberta model code and results
