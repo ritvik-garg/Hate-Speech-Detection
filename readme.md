@@ -1,6 +1,6 @@
 ## Multi-Lingual Sexist Hate Speech Detection and Classification
 
-**sEXism Identification in Social neTworks (EXIST) dataset**
+##### **sEXism Identification in Social neTworks (EXIST) Dataset**
 Dataset has been developed to address this critical social problem.
 The problem can be divided into two tasks:
 - The first task, Sexism Identification, is a binary classification problem to classify the text as sexist or non-sexist.
@@ -28,4 +28,3 @@ All results are in the report as well as the individual results for each model a
 
 ##### Project Home Page
 Link : http://nlp.uned.es/exist2021/
-             
